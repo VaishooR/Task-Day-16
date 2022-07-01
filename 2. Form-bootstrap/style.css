@@ -1,0 +1,21 @@
+.container{
+    margin:px;
+}
+span{
+    color:red;
+}
+
+.emailbox{
+    width:380px;
+    margin:5px;
+}
+
+.fa{
+    color:rgba(248, 248, 15, 0.993)
+}
+
+.button{
+    border:1px solid rgb(146, 146, 176);
+    background-color: rgb(190, 190, 205);
+    padding:10px;
+}
